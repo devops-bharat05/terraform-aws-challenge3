@@ -6,7 +6,7 @@ This project provisions an **EC2 instance** named **citadel** using Terraform on
 
 ## 📌 Architecture
 
-![Architecture](./Screenshot%202025-08-21%20173427.png)
+![Architecture](./terraform-aws.png)
 
 ### Key Components
 
